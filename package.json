@@ -1,0 +1,12 @@
+{
+  "name": "information-site",
+  "version": "1.0.0",
+  "description": "node-js-basic-informational-site",
+  "main": "index",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nick Seibert",
+  "license": "ISC"
+}
