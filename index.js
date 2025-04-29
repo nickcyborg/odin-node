@@ -1,6 +1,8 @@
 import http from "node:http"
 import { getHtmlFile } from "./utils/getHtmlFile.js"
+import 'dotenv/config'
 
+console.log(typeof process.env.VIDEO_URL)
 
 const PORT = 8080
 
